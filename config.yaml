@@ -1,6 +1,6 @@
 # TODO: add papers by configuration file
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
-user_name: "Linaom1214"
+user_name: "greatzyq525"
 repo_name: "cv-arxiv-daily"
 show_authors: True
 show_links: True
@@ -22,9 +22,12 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "ISTD": 
+    "hongwai_jiance":
+        filters: ["Infrared target detection"]
+    "hongwai_shibie":
+        filters: ["Infrared target recognition "]
+    "xiaomubiao": 
         filters: ["infrared small target"]
-    "graph":
-        filters: ["graph neural network transformer segmentation"]
-    "segmentation":
-        filters: ["transformer segmentation"]
+
+
+    
