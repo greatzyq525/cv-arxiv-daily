@@ -72,6 +72,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-03**|**$\textit{A Contrario}$ Paradigm for YOLO-based Infrared Small Target Detection**|Alina Ciocarlan et.al.|[2402.02288](http://arxiv.org/abs/2402.02288)|null|
+|**2024-02-03**|**TCI-Former: Thermal Conduction-Inspired Transformer for Infrared Small Target Detection**|Tianxiang Chen et.al.|[2402.02046](http://arxiv.org/abs/2402.02046)|null|
 |**2024-02-01**|**SCTransNet: Spatial-channel Cross Transformer Network for Infrared Small Target Detection**|Shuai Yuan et.al.|[2401.15583](http://arxiv.org/abs/2401.15583)|null|
 |**2024-01-28**|**ARCNet: An Asymmetric Residual Wavelet Column Correction Network for Infrared Image Destriping**|Shuai Yuan et.al.|[2401.15578](http://arxiv.org/abs/2401.15578)|null|
 |**2024-01-17**|**Improved Dense Nested Attention Network Based on Transformer for Infrared Small Target Detection**|Chun Bao et.al.|[2311.08747](http://arxiv.org/abs/2311.08747)|**[link](https://github.com/edwardbao1006/bit_sirst)**|
