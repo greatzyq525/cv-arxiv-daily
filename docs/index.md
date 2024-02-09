@@ -60,6 +60,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-08**|**SpirDet: Towards Efficient, Accurate and Lightweight Infrared Small Target Detector**|Qianchen Mao et.al.|[2402.05410](http://arxiv.org/abs/2402.05410)|null|
 |**2024-02-03**|**$\textit{A Contrario}$ Paradigm for YOLO-based Infrared Small Target Detection**|Alina Ciocarlan et.al.|[2402.02288](http://arxiv.org/abs/2402.02288)|null|
 |**2024-02-03**|**TCI-Former: Thermal Conduction-Inspired Transformer for Infrared Small Target Detection**|Tianxiang Chen et.al.|[2402.02046](http://arxiv.org/abs/2402.02046)|null|
 |**2024-02-01**|**SCTransNet: Spatial-channel Cross Transformer Network for Infrared Small Target Detection**|Shuai Yuan et.al.|[2401.15583](http://arxiv.org/abs/2401.15583)|null|
