@@ -17,7 +17,7 @@ layout: default
 |**2023-10-09**|**Infrared Small Target Detection Using Double-Weighted Multi-Granularity Patch Tensor Model With Tensor-Train Decomposition**|Guiyu Zhang et.al.|[2310.05347](http://arxiv.org/abs/2310.05347)|null|
 |**2023-09-24**|**ILNet: Low-level Matters for Salient Infrared Small Target Detection**|Haoqing Li et.al.|[2309.13646](http://arxiv.org/abs/2309.13646)|**[link](https://github.com/li-haoqing/ilnet)**|
 |**2023-09-03**|**Enhancing Infrared Small Target Detection Robustness with Bi-Level Adversarial Framework**|Zhu Liu et.al.|[2309.01099](http://arxiv.org/abs/2309.01099)|null|
-|**2023-07-27**|**EFLNet: Enhancing Feature Learning for Infrared Small Target Detection**|Bo Yang et.al.|[2307.14723](http://arxiv.org/abs/2307.14723)|null|
+|**2023-07-27**|**EFLNet: Enhancing Feature Learning for Infrared Small Target Detection**|Bo Yang et.al.|[2307.14723](http://arxiv.org/abs/2307.14723)|**[link](https://github.com/yangbo0411/infrared-small-target)**|
 |**2023-04-10**|**Monte Carlo Linear Clustering with Single-Point Supervision is Enough for Infrared Small Target Detection**|Boyang Li et.al.|[2304.04442](http://arxiv.org/abs/2304.04442)|**[link](https://github.com/yeren123455/sirst-single-point-supervision)**|
 |**2023-04-04**|**Mapping Degeneration Meets Label Evolution: Learning Infrared Small Target Detection with Single Point Supervision**|Xinyi Ying et.al.|[2304.01484](http://arxiv.org/abs/2304.01484)|**[link](https://github.com/xinyiying/lesps)**|
 |**2023-03-18**|**ABC: Attention with Bilinear Correlation for Infrared Small Target Detection**|Peiwen Pan et.al.|[2303.10321](http://arxiv.org/abs/2303.10321)|**[link](https://github.com/panpeiwen/abc)**|
