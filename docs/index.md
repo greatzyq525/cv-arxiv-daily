@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.10
+## Updated on 2024.03.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ISTD
@@ -60,7 +60,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-03-04**|**MiM-ISTD: Mamba-in-Mamba for Efficient Infrared Small Target Detection**|Tianxiang Chen et.al.|[2403.02148](http://arxiv.org/abs/2403.02148)|**[link](https://github.com/txchen-ustc/mim-istd)**|
+|**2024-03-08**|**MiM-ISTD: Mamba-in-Mamba for Efficient Infrared Small Target Detection**|Tianxiang Chen et.al.|[2403.02148](http://arxiv.org/abs/2403.02148)|**[link](https://github.com/txchen-ustc/mim-istd)**|
 |**2024-02-28**|**Infrared Small Target Detection via tensor $L_{2,1}$ norm minimization and ASSTV regularization: A Novel Tensor Recovery Approach**|Jiqian Zhao et.al.|[2402.18003](http://arxiv.org/abs/2402.18003)|null|
 |**2024-02-08**|**SpirDet: Towards Efficient, Accurate and Lightweight Infrared Small Target Detector**|Qianchen Mao et.al.|[2402.05410](http://arxiv.org/abs/2402.05410)|null|
 |**2024-02-03**|**$\textit{A Contrario}$ Paradigm for YOLO-based Infrared Small Target Detection**|Alina Ciocarlan et.al.|[2402.02288](http://arxiv.org/abs/2402.02288)|null|
