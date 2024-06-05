@@ -72,6 +72,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-04**|**Multi-Scale Direction-Aware Network for Infrared Small Target Detection**|Jinmiao Zhao et.al.|[2406.02037](http://arxiv.org/abs/2406.02037)|null|
+|**2024-06-02**|**Diff-Mosaic: Augmenting Realistic Representations in Infrared Small Target Detection via Diffusion Prior**|Yukai Shi et.al.|[2406.00632](http://arxiv.org/abs/2406.00632)|**[link](https://github.com/yupeilin2388/diff-mosaic)**|
 |**2024-03-28**|**Infrared Small Target Detection with Scale and Location Sensitivity**|Qiankun Liu et.al.|[2403.19366](http://arxiv.org/abs/2403.19366)|**[link](https://github.com/ying-fu/mshnet)**|
 |**2024-03-13**|**Mitigate Target-level Insensitivity of Infrared Small Target Detection via Posterior Distribution Modeling**|Haoqing Li et.al.|[2403.08380](http://arxiv.org/abs/2403.08380)|**[link](https://github.com/li-haoqing/irstd-diff)**|
 |**2024-03-08**|**SIRST-5K: Exploring Massive Negatives Synthesis with Self-supervised Learning for Robust Infrared Small Target Detection**|Yahao Lu et.al.|[2403.05416](http://arxiv.org/abs/2403.05416)|**[link](https://github.com/luy0222/sirst-5k)**|
@@ -81,7 +83,7 @@
 |**2024-02-03**|**$\textit{A Contrario}$ Paradigm for YOLO-based Infrared Small Target Detection**|Alina Ciocarlan et.al.|[2402.02288](http://arxiv.org/abs/2402.02288)|null|
 |**2024-02-03**|**TCI-Former: Thermal Conduction-Inspired Transformer for Infrared Small Target Detection**|Tianxiang Chen et.al.|[2402.02046](http://arxiv.org/abs/2402.02046)|null|
 |**2024-04-30**|**SCTransNet: Spatial-channel Cross Transformer Network for Infrared Small Target Detection**|Shuai Yuan et.al.|[2401.15583](http://arxiv.org/abs/2401.15583)|**[link](https://github.com/xdfai/sctransnet)**|
-|**2024-06-04**|**ASCNet: Asymmetric Sampling Correction Network for Infrared Image Destriping**|Shuai Yuan et.al.|[2401.15578](http://arxiv.org/abs/2401.15578)|null|
+|**2024-06-04**|**ASCNet: Asymmetric Sampling Correction Network for Infrared Image Destriping**|Shuai Yuan et.al.|[2401.15578](http://arxiv.org/abs/2401.15578)|**[link](https://github.com/xdfai/ascnet)**|
 |**2024-01-17**|**Improved Dense Nested Attention Network Based on Transformer for Infrared Small Target Detection**|Chun Bao et.al.|[2311.08747](http://arxiv.org/abs/2311.08747)|**[link](https://github.com/edwardbao1006/bit_sirst)**|
 |**2023-11-02**|**RPCANet: Deep Unfolding RPCA Based Infrared Small Target Detection**|Fengyi Wu et.al.|[2311.00917](http://arxiv.org/abs/2311.00917)|**[link](https://github.com/fengyiwu98/rpcanet)**|
 |**2023-10-19**|**Click on Mask: A Labor-efficient Annotation Framework with Level Set for Infrared Small Target Detection**|Haoqing Li et.al.|[2310.12562](http://arxiv.org/abs/2310.12562)|**[link](https://github.com/li-haoqing/com)**|
