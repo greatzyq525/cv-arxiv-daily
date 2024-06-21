@@ -72,6 +72,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-19**|**Lost in UNet: Improving Infrared Small Target Detection by Underappreciated Local Features**|Wuzhou Quan et.al.|[2406.13445](http://arxiv.org/abs/2406.13445)|**[link](https://github.com/wuzhou-quan/hintu)**|
 |**2024-06-11**|**Triple-domain Feature Learning with Frequency-aware Memory Enhancement for Moving Infrared Small Target Detection**|Weiwei Duan et.al.|[2406.06949](http://arxiv.org/abs/2406.06949)|**[link](https://github.com/uestc-nnlab/tridos)**|
 |**2024-06-04**|**Multi-Scale Direction-Aware Network for Infrared Small Target Detection**|Jinmiao Zhao et.al.|[2406.02037](http://arxiv.org/abs/2406.02037)|null|
 |**2024-06-02**|**Diff-Mosaic: Augmenting Realistic Representations in Infrared Small Target Detection via Diffusion Prior**|Yukai Shi et.al.|[2406.00632](http://arxiv.org/abs/2406.00632)|**[link](https://github.com/yupeilin2388/diff-mosaic)**|
