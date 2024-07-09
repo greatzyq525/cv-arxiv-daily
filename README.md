@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.08
+## Updated on 2024.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -42,7 +42,7 @@
 |**2021-11-21**|**Non-Convex Tensor Low-Rank Approximation for Infrared Small Target Detection**|Ting Liu et.al.|[2105.14974](http://arxiv.org/abs/2105.14974)|**[link](https://github.com/LiuTing20a/ASTTV-NTLA)**|
 |**2020-12-15**|**Attentional Local Contrast Networks for Infrared Small Target Detection**|Yimian Dai et.al.|[2012.08573](http://arxiv.org/abs/2012.08573)|**[link](https://github.com/YimianDai/open-alcnet)**|
 
-<p align=right>(<a href=#updated-on-20240708>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240709>back to top</a>)</p>
 
 ## segmentation
 
@@ -57,7 +57,7 @@
 |**2019-08-26**|**No Peeking through My Windows: Conserving Privacy in Personal Drones**|Alem Fitwi et.al.|[1908.09935](http://arxiv.org/abs/1908.09935)|null|
 |**2008-05-16**|**Using generalized PowerFlux methods to estimate the parameters of periodic gravitational waves**|Gregory Mendell et.al.|[0710.4362](http://arxiv.org/abs/0710.4362)|null|
 
-<p align=right>(<a href=#updated-on-20240708>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240709>back to top</a>)</p>
 
 ## hongwai_jiance
 
@@ -66,7 +66,7 @@
 |**2023-01-10**|**Assessing the applicability of common performance metrics for real-world infrared small-target detection**|Saed Moradi et.al.|[2301.03796](http://arxiv.org/abs/2301.03796)|null|
 |**2020-07-29**|**Fast and Robust Small Infrared Target Detection Using Absolute Directional Mean Difference Algorithm**|Saed Moradi et.al.|[1810.03173](http://arxiv.org/abs/1810.03173)|**[link](https://github.com/moradisaed/ADMD)**|
 
-<p align=right>(<a href=#updated-on-20240708>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240709>back to top</a>)</p>
 
 ## xiaomubiao
 
@@ -110,7 +110,7 @@
 |**2022-08-16**|**Dense Nested Attention Network for Infrared Small Target Detection**|Boyang Li et.al.|[2106.00487](http://arxiv.org/abs/2106.00487)|**[link](https://github.com/YeRen123455/Infrared-Small-Target-Detection)**|
 |**2021-11-21**|**Non-Convex Tensor Low-Rank Approximation for Infrared Small Target Detection**|Ting Liu et.al.|[2105.14974](http://arxiv.org/abs/2105.14974)|**[link](https://github.com/LiuTing20a/ASTTV-NTLA)**|
 
-<p align=right>(<a href=#updated-on-20240708>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240709>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
