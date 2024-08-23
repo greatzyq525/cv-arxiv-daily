@@ -72,7 +72,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-08-18**|**The First Competition on Resource-Limited Infrared Small Target Detection Challenge: Methods and Results**|Boyang Li et.al.|[2408.09615](http://arxiv.org/abs/2408.09615)|null|
+|**2024-08-18**|**The First Competition on Resource-Limited Infrared Small Target Detection Challenge: Methods and Results**|Boyang Li et.al.|[2408.09615](http://arxiv.org/abs/2408.09615)|**[link](https://github.com/xinyiying/basicirstd)**|
 |**2024-08-20**|**Beyond Full Label: Single-Point Prompt for Infrared Small Target Label Generation**|Shuai Yuan et.al.|[2408.08191](http://arxiv.org/abs/2408.08191)|**[link](https://github.com/xdfai/edgsp)**|
 |**2024-08-09**|**One Shot is Enough for Sequential Infrared Small Target Segmentation**|Bingbing Dan et.al.|[2408.04823](http://arxiv.org/abs/2408.04823)|null|
 |**2024-08-07**|**Pick of the Bunch: Detecting Infrared Small Targets Beyond Hit-Miss Trade-Offs via Selective Rank-Aware Attention**|Yimian Dai et.al.|[2408.03717](http://arxiv.org/abs/2408.03717)|**[link](https://github.com/grokcv/serankdet)**|
