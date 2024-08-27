@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.26
+## Updated on 2024.08.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ISTD
@@ -53,7 +53,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-01-10**|**Assessing the applicability of common performance metrics for real-world infrared small-target detection**|Saed Moradi et.al.|[2301.03796](http://arxiv.org/abs/2301.03796)|null|
+|**2024-08-25**|**Enhancing Evaluation Methods for Infrared Small-Target Detection in Real-world Scenarios**|Saed Moradi et.al.|[2301.03796](http://arxiv.org/abs/2301.03796)|null|
 |**2020-07-29**|**Fast and Robust Small Infrared Target Detection Using Absolute Directional Mean Difference Algorithm**|Saed Moradi et.al.|[1810.03173](http://arxiv.org/abs/1810.03173)|**[link](https://github.com/moradisaed/ADMD)**|
 
 ## xiaomubiao
