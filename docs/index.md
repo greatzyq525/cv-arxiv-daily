@@ -60,6 +60,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-09**|**Robust infrared small target detection using self-supervised and a contrario paradigms**|Alina Ciocarlan et.al.|[2410.07437](http://arxiv.org/abs/2410.07437)|null|
 |**2024-09-29**|**Gradient is All You Need: Gradient-Based Attention Fusion for Infrared Small Target Detection**|Chen Hu et.al.|[2409.19599](http://arxiv.org/abs/2409.19599)|**[link](https://github.com/greekinroma/gradient-transformer)**|
 |**2024-10-04**|**Infrared Small Target Detection in Satellite Videos: A New Dataset and A Novel Recurrent Feature Refinement Framework**|Xinyi Ying et.al.|[2409.12448](http://arxiv.org/abs/2409.12448)|**[link](https://github.com/xinyiying/rfr)**|
 |**2024-09-07**|**Unleashing the Power of Generic Segmentation Models: A Simple Baseline for Infrared Small Target Detection**|Mingjin Zhang et.al.|[2409.04714](http://arxiv.org/abs/2409.04714)|null|
