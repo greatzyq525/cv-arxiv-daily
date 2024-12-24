@@ -72,6 +72,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-23**|**Learning Dynamic Local Context Representations for Infrared Small Target Detection**|Guoyi Zhang et.al.|[2412.17401](http://arxiv.org/abs/2412.17401)|null|
+|**2024-12-23**|**Neural Spatial-Temporal Tensor Representation for Infrared Small Target Detection**|Fengyi Wu et.al.|[2412.17302](http://arxiv.org/abs/2412.17302)|**[link](https://github.com/fengyiwu98/neurstt)**|
+|**2024-12-22**|**Pinwheel-shaped Convolution and Scale-based Dynamic Loss for Infrared Small Target Detection**|Jiangnan Yang et.al.|[2412.16986](http://arxiv.org/abs/2412.16986)|**[link](https://github.com/JN-Yang/PConv-SDloss-Data)**|
 |**2024-12-15**|**From Easy to Hard: Progressive Active Learning Framework for Infrared Small Target Detection with Single Point Supervision**|Chuang Yu et.al.|[2412.11154](http://arxiv.org/abs/2412.11154)|**[link](https://github.com/yuchuang1205/pal)**|
 |**2024-11-20**|**Paying more attention to local contrast: improving infrared small target detection performance via prior knowledge**|Peichao Wang et.al.|[2411.13260](http://arxiv.org/abs/2411.13260)|null|
 |**2024-10-09**|**Robust infrared small target detection using self-supervised and a contrario paradigms**|Alina Ciocarlan et.al.|[2410.07437](http://arxiv.org/abs/2410.07437)|null|
