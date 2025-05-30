@@ -60,6 +60,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-29**|**SAMamba: Adaptive State Space Modeling with Hierarchical Vision for Infrared Small Target Detection**|Wenhao Xu et.al.|[2505.23214](http://arxiv.org/abs/2505.23214)|null|
 |**2025-05-25**|**DISTA-Net: Dynamic Closely-Spaced Infrared Small Target Unmixing**|Shengdong Han et.al.|[2505.19148](http://arxiv.org/abs/2505.19148)|**[link](https://github.com/grokcv/grokcso)**|
 |**2025-05-21**|**AuxDet: Auxiliary Metadata Matters for Omni-Domain Infrared Small Target Detection**|Yangting Shi et.al.|[2505.15184](http://arxiv.org/abs/2505.15184)|**[link](https://github.com/grokcv/auxdet)**|
 |**2025-05-23**|**ARFC-WAHNet: Adaptive Receptive Field Convolution and Wavelet-Attentive Hierarchical Network for Infrared Small Target Detection**|Xingye Cui et.al.|[2505.10595](http://arxiv.org/abs/2505.10595)|**[link](https://github.com/leaf2001/arfc-wahnet)**|
