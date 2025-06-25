@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.24
+## Updated on 2025.06.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -42,7 +42,7 @@
 |**2021-11-21**|**Non-Convex Tensor Low-Rank Approximation for Infrared Small Target Detection**|Ting Liu et.al.|[2105.14974](http://arxiv.org/abs/2105.14974)|**[link](https://github.com/LiuTing20a/ASTTV-NTLA)**|
 |**2020-12-15**|**Attentional Local Contrast Networks for Infrared Small Target Detection**|Yimian Dai et.al.|[2012.08573](http://arxiv.org/abs/2012.08573)|**[link](https://github.com/YimianDai/open-alcnet)**|
 
-<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
 
 ## segmentation
 
@@ -57,7 +57,7 @@
 |**2019-08-26**|**No Peeking through My Windows: Conserving Privacy in Personal Drones**|Alem Fitwi et.al.|[1908.09935](http://arxiv.org/abs/1908.09935)|null|
 |**2008-05-16**|**Using generalized PowerFlux methods to estimate the parameters of periodic gravitational waves**|Gregory Mendell et.al.|[0710.4362](http://arxiv.org/abs/0710.4362)|null|
 
-<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
 
 ## hongwai_jiance
 
@@ -66,7 +66,7 @@
 |**2024-08-25**|**Enhancing Evaluation Methods for Infrared Small-Target Detection in Real-world Scenarios**|Saed Moradi et.al.|[2301.03796](http://arxiv.org/abs/2301.03796)|null|
 |**2020-07-29**|**Fast and Robust Small Infrared Target Detection Using Absolute Directional Mean Difference Algorithm**|Saed Moradi et.al.|[1810.03173](http://arxiv.org/abs/1810.03173)|**[link](https://github.com/moradisaed/ADMD)**|
 
-<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
 
 ## xiaomubiao
 
@@ -75,7 +75,7 @@
 |**2025-06-15**|**Probing Deep into Temporal Profile Makes the Infrared Small Target Detector Much Better**|Ruojing Li et.al.|[2506.12766](http://arxiv.org/abs/2506.12766)|null|
 |**2025-06-15**|**It's Not the Target, It's the Background: Rethinking Infrared Small Target Detection via Deep Patch-Free Low-Rank Representations**|Guoyi Zhang et.al.|[2506.10425](http://arxiv.org/abs/2506.10425)|**[link](https://github.com/halongbao/lrrnet)**|
 |**2025-06-06**|**SDS-Net: Shallow-Deep Synergism-detection Network for infrared small target detection**|Taoran Yue et.al.|[2506.06042](http://arxiv.org/abs/2506.06042)|null|
-|**2025-06-03**|**RRCANet: Recurrent Reusable-Convolution Attention Network for Infrared Small Target Detection**|Yongxian Liu et.al.|[2506.02393](http://arxiv.org/abs/2506.02393)|null|
+|**2025-06-24**|**RRCANet: Recurrent Reusable-Convolution Attention Network for Infrared Small Target Detection**|Yongxian Liu et.al.|[2506.02393](http://arxiv.org/abs/2506.02393)|null|
 |**2025-06-02**|**Target Driven Adaptive Loss For Infrared Small Target Detection**|Yuho Shoji et.al.|[2506.01349](http://arxiv.org/abs/2506.01349)|null|
 |**2025-05-29**|**SAMamba: Adaptive State Space Modeling with Hierarchical Vision for Infrared Small Target Detection**|Wenhao Xu et.al.|[2505.23214](http://arxiv.org/abs/2505.23214)|**[link](https://github.com/zhengshuchen/samamba)**|
 |**2025-05-25**|**DISTA-Net: Dynamic Closely-Spaced Infrared Small Target Unmixing**|Shengdong Han et.al.|[2505.19148](http://arxiv.org/abs/2505.19148)|**[link](https://github.com/grokcv/grokcso)**|
@@ -150,7 +150,7 @@
 |**2022-08-16**|**Dense Nested Attention Network for Infrared Small Target Detection**|Boyang Li et.al.|[2106.00487](http://arxiv.org/abs/2106.00487)|**[link](https://github.com/YeRen123455/Infrared-Small-Target-Detection)**|
 |**2021-11-21**|**Non-Convex Tensor Low-Rank Approximation for Infrared Small Target Detection**|Ting Liu et.al.|[2105.14974](http://arxiv.org/abs/2105.14974)|**[link](https://github.com/LiuTing20a/ASTTV-NTLA)**|
 
-<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
